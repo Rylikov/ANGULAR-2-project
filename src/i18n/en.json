@@ -1,0 +1,51 @@
+{
+    "HomeLink": "Home",
+    "AboutLink": "About",
+    "ContactLink": "Contact",
+    "Sel_lang": "Chose Language",
+    "Languages":{
+        "English":"English",
+        "French":"French",
+        "Chinese":"Chinese",
+        "Hindi":"Hindi"
+    },
+    "Title": "Translate App",
+    "MainTxt": "Welcome",
+    "LeadTxt": "This is an angular translate demo application. User can see the default language based upon the locale or user can choose the language of his choice from the above.",
+    "MainBnt": "Let's get started",
+    "Head1": "Getting Started",
+    "Text1": "Detailed documentation and developer guide can be found here.",
+    "Head2": "API Reference",
+    "Text2": "Detailed angular-translate API reference can be found here.",
+    "Head3": "Github",
+    "Text3": "View angular-translate on github here.",
+    "About": {
+        "PgTitle":"About",
+        "PgText":"This web application demonstrates the use of angular tranlate and its features. Angular translate is very simple to use and can be easily integrated with any angular app. It is loaded with tons of features and options which makes our life easy."
+    },
+    "Contact":{
+        "PgTitle":"Contact Us",
+        "fname": "First Name",
+        "fname-placeholder":"Enter First Name",
+        "lname":"Last Name",
+        "lname-placeholder":"Enter Last Name",
+        "email":"E-Mail",
+        "email-placeholder":"Enter E-Mail",
+        "phone":"Phone #",
+        "phone-placeholder":"(555)555-1212",
+        "add":"Address",
+        "add-placeholder":"Enter Address",
+        "hobby":"Hobbies",
+        "hobbies":{
+            "Movies": "Movies",
+            "Walking":"Walking",
+            "Swimming":"Swimming",
+            "Running":"Running"
+        },
+        "web":"Website",
+        "web-placeholder":"Enter Website",
+        "comment":"Comments",
+        "comment-placeholder":"Enter your comments",
+        "btn":"Send"
+    }
+  }

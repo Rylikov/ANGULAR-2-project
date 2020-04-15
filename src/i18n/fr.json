@@ -1,0 +1,51 @@
+{
+    "HomeLink": "Accueil",
+    "AboutLink": "Sur",
+    "ContactLink": "Contact",
+    "Sel_lang": "Choisissez la langue",
+    "Languages":{
+        "English":"Anglais",
+        "French":"Français",
+        "Chinese":"Chinois",
+        "Hindi":"Hindi"
+    },
+    "Title": "Traduire App",
+    "MainTxt": "Bienvenue",
+    "LeadTxt": "Ceci est une application de démonstration traduire angulaire. L'utilisateur peut voir la langue par défaut en fonction de la localisation ou l'utilisateur peut choisir la langue de son choix de ce qui précède.",
+    "MainBnt": "Commençons",
+    "Head1": "Commencer",
+    "Text1": "Une documentation détaillée et un guide de développeur peuvent être trouvés ici.",
+    "Head2": "Référence de l'API",
+    "Text2": "Détail de référence de l'API angulaire-translate peut être trouvée ici.",
+    "Head3": "Github",
+    "Text3": "Voir angulaire traduire sur github ici.",
+    "About": {
+        "PgTitle":"Sur",
+        "PgText":"Cette application web montre l'utilisation de Tranlate angulaire et ses caractéristiques. Angular traduire est très simple à utiliser et peut être facilement intégré à toute application angulaire. Il est chargé avec des tonnes de fonctionnalités et d'options qui rend notre vie facile."
+    },
+    "Contact":{
+        "PgTitle":"Contact",
+        "fname": "Prénom",
+        "fname-placeholder":"Entrez votre prénom",
+        "lname":"Nom de famille",
+        "lname-placeholder":"Entrez Nom",
+        "email":"E-Mail",
+        "email-placeholder":"Entrez E-Mail",
+        "phone":"Téléphone #",
+        "phone-placeholder":"(555)555-1212",
+        "add":"Adresse",
+        "add-placeholder":"Entrer l'adresse",
+        "hobby":"Loisirs",
+        "hobbies":{
+            "Movies": "Films",
+            "Walking":"En marchant",
+            "Swimming":"La natation",
+            "Running":"Fonctionnement"
+        },
+        "web":"Site Internet",
+        "web-placeholder":"Entrez Site",
+        "comment":"Commentaires",
+        "comment-placeholder":"Entrez vos commentaires",
+        "btn":"Envoyer"
+    }
+  }

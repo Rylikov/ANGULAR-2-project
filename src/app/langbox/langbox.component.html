@@ -1,0 +1,15 @@
+<a class="navbar-text" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Chose Language {{ 'Sel_lang' | translate }}<span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+    <li>
+        <a (click)="changeLanguage('en')">English {{ 'Languages.English' | translate }}</a>
+    </li>
+    <li>
+        <a (click)="changeLanguage('fr')">French {{ 'Languages.French' | translate }}</a>
+    </li>
+    <li>
+        <a (click)="changeLanguage('cn')">Chinese {{ 'Languages.Chinese' | translate }}</a>
+    </li>
+    <li>
+        <a (click)="changeLanguage('hi')">Hindi {{ 'Languages.Hindi' | translate }}</a>
+    </li>
+</ul>
